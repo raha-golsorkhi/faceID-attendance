@@ -3,7 +3,7 @@ import numpy as np
 import face_recognition
 import os
 
-path = '/Users/rahagolsorkhi/Documents/projects/photos'
+path = 'Documents/projects/photos'
 images = []
 imgNames = []
 myList = os.listdir(path)
